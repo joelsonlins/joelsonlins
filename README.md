@@ -30,6 +30,15 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My future main stack is Java.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I am constantly growing personally and professionally and helping other people achieve their dreams in the world of programming.<br />
 
+## Courses in progress 📚
+- <a href="#" target="_blank">[Formação CSS Web Developer](https://github.com/joelsonlins/Formacao-CSS-Web-developer-DIO) 🖌️🎨</a>
+- <a href="#" target="_blank"> [Formação Lógica de Programação](https://github.com/joelsonlins/Formacao-logica-de-programacao-DIO) 🖥️🧩</a>
+- <a href="#" target="_blank"> [Curso de Lógica - Curso em Vídeo](https://github.com/joelsonlins/curso-em-video/tree/main/Curso%20de%20Algoritmo) 🖥️🧮</a>
+
+## Recently Finished 🏆📜
+- <a href="#" target="_blank">[Formação Github Certification](https://github.com/joelsonlins/Formacao-Github-Certification-DIO) 📦 </a>
+- <a href="#" target="_blank"> [Bootcamp Coding The Futyre Squadio - Python Analytics](https://github.com/joelsonlins/Python_Data_Analytics_Bootcamp) 🐍📊 </a>
+
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <h3>Contact Me</h3>
