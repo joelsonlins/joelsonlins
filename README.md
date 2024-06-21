@@ -19,9 +19,17 @@
 
 </div>
 
+<h2>🏆 Github Profile Trophy</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=joelsonlins&theme=radical&rank=SSS,SS,S,AAA,AA,A,B"/>
+</a>
+
+---
+
 ## &nbsp;My Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,python,git,github,postgres,mongodb&theme=dark" />
+
 
 ## About me
 
@@ -32,12 +40,12 @@
 
 ## Courses in progress 📚
 - <a href="#" target="_blank">[Formação CSS Web Developer](https://github.com/joelsonlins/Formacao-CSS-Web-developer-DIO) 🖌️🎨</a>
-- <a href="#" target="_blank"> [Formação Lógica de Programação](https://github.com/joelsonlins/Formacao-logica-de-programacao-DIO) 🖥️🧩</a>
 - <a href="#" target="_blank"> [Curso de Lógica - Curso em Vídeo](https://github.com/joelsonlins/curso-em-video/tree/main/Curso%20de%20Algoritmo) 🖥️🧮</a>
 
 ## Recently Finished 🏆📜
 - <a href="#" target="_blank">[Formação Github Certification](https://github.com/joelsonlins/Formacao-Github-Certification-DIO) 📦 </a>
 - <a href="#" target="_blank"> [Bootcamp Coding The Futyre Squadio - Python Analytics](https://github.com/joelsonlins/Python_Data_Analytics_Bootcamp) 🐍📊 </a>
+- <a href="#" target="_blank"> [Formação Lógica de Programação](https://github.com/joelsonlins/Formacao-logica-de-programacao-DIO) 🖥️🧩</a>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
