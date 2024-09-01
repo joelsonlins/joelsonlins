@@ -40,10 +40,11 @@
 
 ## Courses in progress 📚
 - <a href="#" target="_blank">[Formação JavaScript Developer](https://github.com/joelsonlins/Formacao-JavaScript-Developer-DIO) 📜🖥️💡</a>
-- <a href="#" target="_blank">[Formação CSS Web Developer](https://github.com/joelsonlins/Formacao-CSS-Web-developer-DIO) 🖌️🎨</a>
+
 
 
 ## Recently Finished 🏆📜
+- <a href="#" target="_blank">[Formação CSS Web Developer](https://github.com/joelsonlins/Formacao-CSS-Web-developer-DIO) 🖌️🎨</a>
 - <a href="#" target="_blank"> [Curso de Lógica - Curso em Vídeo](https://github.com/joelsonlins/curso-em-video/tree/main/Curso%20de%20Algoritmo) 🖥️🧮</a>
 - <a href="#" target="_blank">[Formação Github Certification](https://github.com/joelsonlins/Formacao-Github-Certification-DIO) 📦 </a>
 - <a href="#" target="_blank"> [Bootcamp Coding The Futyre Squadio - Python Analytics](https://github.com/joelsonlins/Python_Data_Analytics_Bootcamp) 🐍📊 </a>
