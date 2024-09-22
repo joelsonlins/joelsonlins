@@ -40,10 +40,14 @@
 
 ## Courses in progress 📚
 - <a href="#" target="_blank">[Formação JavaScript Developer](https://github.com/joelsonlins/Formacao-JavaScript-Developer-DIO) 📜🖥️💡</a>
+- <a href="#" target="_blank">[Bootcamp FullStack(Java) - MaisPraTi e Codifica](https://github.com/joelsonlins/MaisPraTi) 📜☕🖥️</a>
+- <a href="#" target="_blank">[Formação Ruby on Rails Developer](https://github.com/joelsonlins/formacao-ruby-on-rails-developer-dio) ♦️🖥️💡</a>
+- <a href="#" target="_blank">[Bootcamp Front-end Development](https://github.com/joelsonlins/italents-bootcamp-frontend-development) 📜🖥️💡</a>
 
 
 
 ## Recently Finished 🏆📜
+- <a href="#" target="_blank">[Formação Ruby Developer](https://github.com/joelsonlins/formacao-ruby-developer-DIO) ♦️♦️</a>
 - <a href="#" target="_blank">[Formação CSS Web Developer](https://github.com/joelsonlins/Formacao-CSS-Web-developer-DIO) 🖌️🎨</a>
 - <a href="#" target="_blank"> [Curso de Lógica - Curso em Vídeo](https://github.com/joelsonlins/curso-em-video/tree/main/Curso%20de%20Algoritmo) 🖥️🧮</a>
 - <a href="#" target="_blank">[Formação Github Certification](https://github.com/joelsonlins/Formacao-Github-Certification-DIO) 📦 </a>
