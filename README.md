@@ -40,8 +40,7 @@
 ## Courses in progress 📚
 - <a href="#" target="_blank">[Formação JavaScript Developer](https://github.com/joelsonlins/Formacao-JavaScript-Developer-DIO) 📜🖥️💡</a>
 - <a href="#" target="_blank">[Bootcamp FullStack(Java) - MaisPraTi e Codifica](https://github.com/joelsonlins/MaisPraTi) 📜☕🖥️</a>
-- <a href="#" target="_blank">[Formação Ruby on Rails Developer](https://github.com/joelsonlins/formacao-ruby-on-rails-developer-dio) ♦️🖥️💡</a>
-- <a href="#" target="_blank">[Bootcamp Front-end Development](https://github.com/joelsonlins/italents-bootcamp-frontend-development) 📜🖥️💡</a>
+- <a href="#" target="_blank">[Bootcamp Front-end Development(React) - Italents](https://github.com/joelsonlins/italents-bootcamp-frontend-development) 📜🖥️💡</a>
 
 
 
