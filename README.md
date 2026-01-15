@@ -33,9 +33,8 @@
 
 ## About me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Joelson Lins and I am a FullStack Developer and Graduate in systems analysis.. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Engenier.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I am constantly growing personally and professionally and helping other people achieve their dreams in the world of programming.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Joelson Lins and I am a FullStack Data and Graduate in systems analysis.. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Data Engenier.<br />
 
 ## Courses in progress 📚
 - <a href="#" target="_blank">[Formação JavaScript Developer](https://github.com/joelsonlins/Formacao-JavaScript-Developer-DIO) 📜🖥️💡</a>
